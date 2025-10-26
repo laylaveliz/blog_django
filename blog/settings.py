@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/5.2/ref/settings/
 
 # Proyecto Django de Layla Veliz PRACTICA 1
 
+# Rama de desarrollo: feature-contacto
+
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
